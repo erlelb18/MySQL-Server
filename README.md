@@ -27,6 +27,15 @@ Bonus: * Verbindung mit Java (Books zeigen)-Olger
 | 07-04-2025 | 9.35 - 11.10      | 90          | Erlisa Elbasani | Server Konfiguartion                          |
 | 08-04-2025 | 13.45 - 15.25     | 90          | Erlisa Elbasani | Problembehebung und neue Server Konfiguration  (Benutzer, Firewall, bind-address etc.)|
 | 14-04-2025 | 9.35 - 10.20      | 45          | Erlisa Elbasani | ReadMe.md file                                |
+
+
+| Datum      | Uhrzeit von - bis | Dauer (Min) | Name         | Arbeitsschritte & Beschreibung                    |
+|------------|-------------------|-------------|--------------|---------------------------------------------------|
+| 01-04-2025 | 13.45 - 15.25     | 90          | Olger Peraj  | MySQL Installation und erste Tests                |
+| 07-04-2025 | 9.35 - 11.10      | 90          | Olger Peraj  | Erstellung von Tabelle ‘books’ in DataGrip        |
+| 08-04-2025 | 13.45 - 15.25     | 90          | Olger Peraj  | Tests mit DataGrip und Java-Verbindung/testen     |
+| 14-04-2025 | 9.35 - 10.20      | 45          | Olger Peraj  | ReadMe.md file                                    |
+
 ---
 
 ## ⚙️ Konfigurationsschritte
