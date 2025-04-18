@@ -6,6 +6,7 @@
 
 ##  Aufgabenteilung
 MySQL-Server aufsetzen-Olger&Erlisa
+
 Mit einem Cloud-Server (Ubuntu Linux) über SSH verbinden-Olger&Erlisa
 
 MySQL installieren und aufsetzen-Olger
@@ -40,15 +41,15 @@ Bonus: * Verbindung mit Java (Books zeigen)-Olger
 
 ## ⚙️ Konfigurationsschritte
 
-
+## Install- Olger
 sudo apt install mysql-server
 sudo systemctl status mysql
 sudo systemctl start MySQL
 
-
+## über SSH verbinden- Olger und Erlisa
 ssh root@167.99.141.104
 
-
+## Konfiguration-Erlisa
 sudo apt update && sudo apt upgrade -y
 ➡ Aktualisiert die Paketliste und installiert verfügbare Updates automatisch.
 
