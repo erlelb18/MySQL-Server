@@ -75,3 +75,10 @@ bind-address bestimmt, an welche IP-Adresse(n) der MySQL-Server gebunden ist –
 Erlaube Verbindungen von jeder IP-Adresse
 
 sudo systemctl restart MySQL
+
+
+## DataGrip Verbindung-Olger
+![DataGrip verbindung](DataGripVerbindung_Olger.jfif)
+
+
+
